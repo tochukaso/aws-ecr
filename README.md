@@ -1,2 +1,6 @@
 # aws-ecr
-use AWS ECR
+Use AWS ECR sample
+
+## Create IAM User
+
+  run terraform
