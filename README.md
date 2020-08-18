@@ -7,6 +7,6 @@ Use AWS ECR sample
   
   copy Outputs: `github-access-key` and `github-secret-access-key`
   
-  Set GitHub Secrets `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`
+  Set GitHub Secrets `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` and `AWS_ECR_REPO_NAME`
   
   
