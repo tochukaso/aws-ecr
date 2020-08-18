@@ -4,3 +4,8 @@
 *.tfstate.backup
 *.tfstate.*.backup
 
+# node
+**/node_modules/
+**/node_modules/*
+hello-world/node/node_modules
+hello-world/node/node_modules/*
